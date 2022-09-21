@@ -2,3 +2,5 @@ miso
 kimchi
 sauerkraut
 wine
+yoghurt
+saussage
